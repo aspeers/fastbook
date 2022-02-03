@@ -1,6 +1,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
 
+# Personal fork of fastai MOOC course materials
+
+Hello, welcome to my personal fork of the [fastai MOOC](https://course.fast.ai) course materials.  I've created this repository to provide a personal copy of course materials that can be modified and saved/version controlled when I have time to progress through the course.  A copy of the *clean* directory will be made in the *personal* directory where I can make changes, run through the material and answer the questionnaires at the end of each chapter/lecture.  This also allows for course content to be upgraded/refreshed with changes from the [main repository](https://github.com/fastai/fastbook) while leaving personally modified versions unscathed (if necessary).
+
+Original README contents are left in tact below.
+
 # The fastai book
 
 These notebooks cover an introduction to deep learning, [fastai](https://docs.fast.ai/), and [PyTorch](https://pytorch.org/). fastai is a layered API for deep learning; for more information, see [the fastai paper](https://www.mdpi.com/2078-2489/11/2/108). Everything in this repo is copyright Jeremy Howard and Sylvain Gugger, 2020 onwards.
